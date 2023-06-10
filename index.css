@@ -85,7 +85,7 @@ body{
 }
 h2{
     font-style: italic;
-    color: fuchsia;
+    color: blue;
 }
 
 @media only screen and (max-width:450px){
